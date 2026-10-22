@@ -1,6 +1,7 @@
 ---
 name: asd-ste100
 description: "Use this skill when English text must be parsed without a human to resolve ambiguity (tool descriptions, error messages, agent instructions, system prompts, status reports) and misreading has a real cost, or when the user asks for an STE100 or plain-language rewrite."
+version: 0.4.0
 ---
 
 # Simplified Technical English (ASD-STE100)
